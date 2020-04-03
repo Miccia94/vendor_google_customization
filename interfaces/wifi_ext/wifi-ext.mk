@@ -25,4 +25,5 @@ PRODUCT_PACKAGES += \
 
 # GCS App
 PRODUCT_PACKAGES += \
-    GCS
+    GCS \
+    privapp-permissions-gcs-product.xml
