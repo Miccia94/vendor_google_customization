@@ -23,13 +23,6 @@ prebuilt_apex {
 }
 
 prebuilt_apex {
-    name: "com.android.resolv",
-    src: "com.google.android.resolv.apex",
-    owner: "google",
-    prefer: true,
-}
-
-prebuilt_apex {
     name: "com.android.tzdata",
     src: "com.google.android.tzdata.apex",
     owner: "google",
